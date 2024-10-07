@@ -35,7 +35,7 @@ require("lazy").setup({
   checker = { enabled = true },
 })
 
-require("cyberdream").setup()
+require("catppuccin").setup()
 require("autoclose").setup()
 require("nvim-ts-autotag").setup()
 
